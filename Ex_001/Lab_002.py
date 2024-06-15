@@ -1,0 +1,5 @@
+print("some arithemetic operation commit as follows :-")
+print(2+2)
+print(2-2)
+print(2/2)
+print(2*2)
